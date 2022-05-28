@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Message Communication</string>
+    <string name="wearable_device_is_connected">Wearable device is connected</string>
+    <string name="wearable_message">Wearable message</string>
+    <string name="init">...</string>
+    <string name="check_for_connected_wearables">Check for connected wearables</string>
+</resources>
